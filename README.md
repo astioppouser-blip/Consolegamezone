@@ -51,7 +51,7 @@ Screenshot hasil eksekusi program akan ditampilkan pada bagian ini.
 Simpan gambar hasil program di folder `screenshots` dengan nama `output.png`, kemudian gunakan kode berikut:
 
 ```markdown
-![Screenshot Console Game Zone](screenshots/output.png)
+![Screenshot Console Game Zone](screenshot/output.png)
 ```
 
 ## 🎯 Tujuan Pembuatan
